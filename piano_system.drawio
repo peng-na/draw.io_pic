@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1042" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="661" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="xaGXmSj2_hZ0vpkpT0F4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xaGXmSj2_hZ0vpkpT0F4-0" target="xaGXmSj2_hZ0vpkpT0F4-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-0" value="&lt;div&gt;&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;物理键盘输入&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-0" value="&lt;div&gt;&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;物理键盘输入&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xaGXmSj2_hZ0vpkpT0F4-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xaGXmSj2_hZ0vpkpT0F4-1" target="xaGXmSj2_hZ0vpkpT0F4-3">
@@ -18,13 +18,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-1" value="&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;功能处理集群&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-1" value="&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;功能处理集群&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="695" width="620" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-3" value="&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;音频引擎&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-3" value="&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;音频引擎&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="835" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-5" value="&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;节拍器控制&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（QTimer 驱动）&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-5" value="&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;节拍器控制&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（QTimer 驱动）&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="835" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xaGXmSj2_hZ0vpkpT0F4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -39,10 +39,10 @@
             <mxPoint x="559.5" y="835" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-9" value="&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;录音管理&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（JSON序列化&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-9" value="&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;录音管理&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（JSON序列化&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="835" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-10" value="&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;音量调节&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-10" value="&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;音量调节&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="835" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xaGXmSj2_hZ0vpkpT0F4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -54,16 +54,16 @@
         <mxCell id="xaGXmSj2_hZ0vpkpT0F4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xaGXmSj2_hZ0vpkpT0F4-12" target="xaGXmSj2_hZ0vpkpT0F4-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-12" value="&lt;div&gt;&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;信号槽&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-12" value="&lt;div&gt;&lt;pre style=&quot;font-size: 9.8pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;信号槽&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="554" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-14" value="开始/停止录音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-14" value="开始/停止录音" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="960" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-15" value="载入录音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-15" value="载入录音" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="960" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-16" value="回放录音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-16" value="回放录音" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="960" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xaGXmSj2_hZ0vpkpT0F4-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -72,13 +72,13 @@
         <mxCell id="xaGXmSj2_hZ0vpkpT0F4-23" value="" style="line;strokeWidth=2;html=1;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="529.0699999999999" y="923.44" width="64.37" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-24" value="启动/停止&lt;div&gt;节拍器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-24" value="启动/停止&lt;div&gt;节拍器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="960.94" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-25" value="调节速度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-25" value="调节速度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="960.94" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-26" value="调整节奏类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xaGXmSj2_hZ0vpkpT0F4-26" value="调整节奏类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="960.94" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xaGXmSj2_hZ0vpkpT0F4-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
