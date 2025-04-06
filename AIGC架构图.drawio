@@ -99,8 +99,8 @@
         <mxCell id="d-JeLjUKKI5550INJL4p-90" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://huggingface.co/front/assets/huggingface_logo-noborder.svg;" vertex="1" parent="1">
           <mxGeometry x="193.81" y="265" width="32.39" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d-JeLjUKKI5550INJL4p-94" value="AIGC模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="295" width="60" height="30" as="geometry" />
+        <mxCell id="d-JeLjUKKI5550INJL4p-94" value="Desklib模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="174.5" y="295" width="71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d-JeLjUKKI5550INJL4p-96" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://huggingface.co/front/assets/huggingface_logo-noborder.svg;" vertex="1" parent="1">
           <mxGeometry x="193.81" y="340" width="32.39" height="30" as="geometry" />
@@ -108,7 +108,7 @@
         <mxCell id="d-JeLjUKKI5550INJL4p-99" value="&lt;pre style=&quot;font-family: Menlo, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace, Inter, sans-serif; overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; font-size: 12.573px; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;pre style=&quot;font-family: Menlo, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace, Inter, sans-serif; overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Model: ERNIE-3.0-Nano-ZH&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="236.74000000000007" y="347.5" width="308.53" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d-JeLjUKKI5550INJL4p-100" value="AIGC模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="d-JeLjUKKI5550INJL4p-100" value="TextRocogn模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d-JeLjUKKI5550INJL4p-101" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.024;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d-JeLjUKKI5550INJL4p-89" target="d-JeLjUKKI5550INJL4p-57">
