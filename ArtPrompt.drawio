@@ -19,22 +19,22 @@
         <mxCell id="8P09uW3za2jVXd5YUVVG-42" value="敏感词识别" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="2">
           <mxGeometry x="202.25" y="142" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8P09uW3za2jVXd5YUVVG-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-44" target="8P09uW3za2jVXd5YUVVG-46">
+        <mxCell id="8P09uW3za2jVXd5YUVVG-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-44" target="8P09uW3za2jVXd5YUVVG-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8P09uW3za2jVXd5YUVVG-44" value="非停用词过滤" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="2">
+        <mxCell id="8P09uW3za2jVXd5YUVVG-44" value="非停用词过滤" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="2">
           <mxGeometry x="202.25" y="242" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8P09uW3za2jVXd5YUVVG-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-46" target="8P09uW3za2jVXd5YUVVG-48">
+        <mxCell id="8P09uW3za2jVXd5YUVVG-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-46" target="8P09uW3za2jVXd5YUVVG-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8P09uW3za2jVXd5YUVVG-46" value="ASCII 艺术生成" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="2">
+        <mxCell id="8P09uW3za2jVXd5YUVVG-46" value="ASCII 艺术生成" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="2">
           <mxGeometry x="202.25" y="332" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8P09uW3za2jVXd5YUVVG-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-48" target="8P09uW3za2jVXd5YUVVG-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8P09uW3za2jVXd5YUVVG-48" value="艺术掩码后的提示词" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="2">
+        <mxCell id="8P09uW3za2jVXd5YUVVG-48" value="艺术掩码后的提示词" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="2">
           <mxGeometry x="202.25" y="422" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8P09uW3za2jVXd5YUVVG-51" value="DeepSeek 推断" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="2">
@@ -46,25 +46,25 @@
         <mxCell id="8P09uW3za2jVXd5YUVVG-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-51" target="8P09uW3za2jVXd5YUVVG-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8P09uW3za2jVXd5YUVVG-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#fff2cc;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-89" target="8P09uW3za2jVXd5YUVVG-90">
+        <mxCell id="8P09uW3za2jVXd5YUVVG-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#fff2cc;dashed=1;dashPattern=1 2;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-89" target="8P09uW3za2jVXd5YUVVG-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8P09uW3za2jVXd5YUVVG-89" value="DeepSeek 检测敏感词" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="2">
           <mxGeometry x="50" y="242" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8P09uW3za2jVXd5YUVVG-88" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-42" target="8P09uW3za2jVXd5YUVVG-89">
+        <mxCell id="8P09uW3za2jVXd5YUVVG-88" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-42" target="8P09uW3za2jVXd5YUVVG-89">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="212" as="sourcePoint" />
             <mxPoint x="120" y="242" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8P09uW3za2jVXd5YUVVG-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#fff2cc;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-90" target="8P09uW3za2jVXd5YUVVG-115">
+        <mxCell id="8P09uW3za2jVXd5YUVVG-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#fff2cc;dashed=1;dashPattern=1 2;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-90" target="8P09uW3za2jVXd5YUVVG-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8P09uW3za2jVXd5YUVVG-90" value="[mask] -&amp;gt; ASCII word" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="2">
           <mxGeometry x="50" y="332" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8P09uW3za2jVXd5YUVVG-104" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-115" target="8P09uW3za2jVXd5YUVVG-51">
+        <mxCell id="8P09uW3za2jVXd5YUVVG-104" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-115" target="8P09uW3za2jVXd5YUVVG-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="492" as="sourcePoint" />
             <mxPoint x="550" y="432" as="targetPoint" />
@@ -73,19 +73,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8P09uW3za2jVXd5YUVVG-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-107" target="8P09uW3za2jVXd5YUVVG-108">
+        <mxCell id="8P09uW3za2jVXd5YUVVG-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-107" target="8P09uW3za2jVXd5YUVVG-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8P09uW3za2jVXd5YUVVG-107" value="DeepSeek 检测敏感词" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="2">
           <mxGeometry x="360" y="242" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8P09uW3za2jVXd5YUVVG-106" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-42" target="8P09uW3za2jVXd5YUVVG-107">
+        <mxCell id="8P09uW3za2jVXd5YUVVG-106" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-42" target="8P09uW3za2jVXd5YUVVG-107">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="382" as="sourcePoint" />
             <mxPoint x="420" y="242" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8P09uW3za2jVXd5YUVVG-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-108" target="8P09uW3za2jVXd5YUVVG-110">
+        <mxCell id="8P09uW3za2jVXd5YUVVG-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-108" target="8P09uW3za2jVXd5YUVVG-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8P09uW3za2jVXd5YUVVG-108" value="masked_words" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="2">
@@ -94,7 +94,7 @@
         <mxCell id="8P09uW3za2jVXd5YUVVG-110" value="masked_instruction&lt;br&gt;（未经 ArtPrompt 处理）" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="2">
           <mxGeometry x="360" y="422" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8P09uW3za2jVXd5YUVVG-112" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-110" target="8P09uW3za2jVXd5YUVVG-51">
+        <mxCell id="8P09uW3za2jVXd5YUVVG-112" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;" edge="1" parent="2" source="8P09uW3za2jVXd5YUVVG-110" target="8P09uW3za2jVXd5YUVVG-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="572" as="sourcePoint" />
             <mxPoint x="370" y="582" as="targetPoint" />
