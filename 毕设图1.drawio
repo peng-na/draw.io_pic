@@ -25,6 +25,12 @@
             <mxPoint x="44" y="91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VoBcb1_hRg6vDSUUBO5q-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 153, 51);&quot; face=&quot;Comic Sans MS&quot;&gt;待检测正文&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="72" x="368" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="VoBcb1_hRg6vDSUUBO5q-17" parent="1" style="text;whiteSpace=wrap;html=1;rotation=-90;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#ff9933&quot;&gt;上下文语境&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="88" x="-82.00333333333326" y="300.00333333333333" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
