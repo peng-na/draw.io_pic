@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0">
   <diagram name="第 1 页" id="weydcjuEohUuEhnKeV2W">
-    <mxGraphModel dx="1379" dy="880" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,7 +109,7 @@
         <mxCell id="0lK52GhMX8IdImjYM9BL-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Prompt &amp;amp; Instruction Design" vertex="1">
           <mxGeometry height="30" width="106.5" x="105.25" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="0lK52GhMX8IdImjYM9BL-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Base Model Qwen3-8B" vertex="1">
+        <mxCell id="0lK52GhMX8IdImjYM9BL-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BERT vs LLM" vertex="1">
           <mxGeometry height="30" width="86.5" x="114.27000000000001" y="594" as="geometry" />
         </mxCell>
         <mxCell id="0lK52GhMX8IdImjYM9BL-38" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -121,7 +121,7 @@
         <mxCell id="0lK52GhMX8IdImjYM9BL-36" parent="0lK52GhMX8IdImjYM9BL-38" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;LoRA&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" as="geometry" />
         </mxCell>
-        <mxCell id="0lK52GhMX8IdImjYM9BL-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LoRA Fine-tuning" vertex="1">
+        <mxCell id="0lK52GhMX8IdImjYM9BL-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Fine-tuning &amp;amp; LoRA" vertex="1">
           <mxGeometry height="30" width="100" x="286.4" y="555" as="geometry" />
         </mxCell>
         <mxCell id="0lK52GhMX8IdImjYM9BL-42" connectable="0" parent="1" style="group" value="" vertex="1">
